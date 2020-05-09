@@ -9,10 +9,7 @@ Reads and analyzes bikesharing data for three cities: Chicago, New York, and Was
 This is the second major project for the Udacity course: Programming for Data Science with Python
 
 ### Files used
-Bikeshare.py contains the logic
-chicago.csv
-washington.csv
-new_york_city.csv
+Bikeshare.py contains the logic.  There are three accompanying csv files: chicago.csv, washington.csv, and new_york_city.csv
 
 Note: the csv data is not included in this repo.
 
