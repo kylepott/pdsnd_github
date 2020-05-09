@@ -15,4 +15,5 @@ Note: the csv data is not included in this repo.
 
 ### Credits
 Udacity course (highly recommended): https://www.udacity.com/course/programming-for-data-science-nanodegree--nd104
+
 Logic for converting hours, minutes, seconds to pretty format: https://www.geeksforgeeks.org/python-program-to-convert-seconds-into-hours-minutes-and-seconds/
