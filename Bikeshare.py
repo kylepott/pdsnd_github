@@ -461,13 +461,14 @@ def display_rows(df, city):
         NONE - presents the data directly to the user using print statements
     """    
     print("I've sorted the raw data to show you the five most recent transactions out of " + str(len(df.index)) + " total entries.")
-    # delet working columns, rename, and sorting our data
+    # delete working columns, rename, and sorting our data
     df2 = df.rename(columns={"Unnamed: 0":"ID"}) 
     df3 = df2.drop(columns=['month', 'day', 'hour', 'station_merge'], axis=1)
     df3 = df3.sort_values(by="Start Time", ascending=False)
     
     # display the first five rows
     # custom logic for washington
+    # washington is missing birthyear and gender data
     i = 0
     stopper = 5
     while True:
