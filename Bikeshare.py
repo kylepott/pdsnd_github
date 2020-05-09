@@ -320,6 +320,7 @@ def time_stats(df):
     start_hour = start_hour[0].replace("(","")
     
     #convert the hour to US
+    #credit to https://www.geeksforgeeks.org/python-program-to-convert-seconds-into-hours-
     if int(start_hour) > 12:
         start_hour = int(start_hour) - 12
         start_hour = str(start_hour) + "pm"
