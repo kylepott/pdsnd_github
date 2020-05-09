@@ -14,6 +14,8 @@ chicago.csv
 washington.csv
 new_york_city.csv
 
+Note: the csv data is not included in this repo.
+
 ### Credits
 Udacity course (highly recommended): https://www.udacity.com/course/programming-for-data-science-nanodegree--nd104
 
