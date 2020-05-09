@@ -1,15 +1,19 @@
 ### Date created
-Include the date you created this project and README file.
+May 8, 2020
 
 ### Project Title
-Replace the Project Title
+Bikeshare
 
 ### Description
-Describe what your project is about and what it does
+Reads and analyzes bikesharing data for three cities: Chicago, New York, and Washington.
+This is the second major project for the Udacity course: Programming for Data Science with Python
 
 ### Files used
-Include the files used
+Bikeshare.py contains the logic
+chicago.csv
+washington.csv
+new_york_city.csv
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+Udacity course (highly recommended): https://www.udacity.com/course/programming-for-data-science-nanodegree--nd104
 
