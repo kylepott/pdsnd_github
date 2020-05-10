@@ -13,6 +13,8 @@ Bikeshare.py contains the logic.  There are three accompanying csv files: chicag
 
 Note: the csv data is not included in this repo controlled by .gitignore
 
+.gitignore also ignores any future csv files added to the repo
+
 ### Credits
 Udacity course (highly recommended): https://www.udacity.com/course/programming-for-data-science-nanodegree--nd104
 
