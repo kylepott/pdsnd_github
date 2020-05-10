@@ -1,5 +1,5 @@
 ### Date created
-May 8, 2020
+May 9, 2020
 
 ### Project Title
 Bikeshare.py
@@ -11,7 +11,7 @@ This is the second major project for the Udacity course: Programming for Data Sc
 ### Files used
 Bikeshare.py contains the logic.  There are three accompanying csv files: chicago.csv, washington.csv, and new_york_city.csv
 
-Note: the csv data is not included in this repo.
+Note: the csv data is not included in this repo controlled by .gitignore
 
 ### Credits
 Udacity course (highly recommended): https://www.udacity.com/course/programming-for-data-science-nanodegree--nd104
